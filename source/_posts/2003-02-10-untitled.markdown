@@ -1,0 +1,17 @@
+---
+layout: post
+title: "untitled"
+date: 2003-02-10
+comments: false
+---
+OK, so here I am, sitting in my semi-clean office, listening to obscure
+Beatles songs (it's a Beatles "Fourplay" weekend on Magic 104.3). Mary and Jen
+are away at Model UN, which kind of sucks, since I need Jen to sign the
+January report so I can mail it by tomorrow. I have to get it signed and in
+the mail tomorrow. It's funny, I've made it a point of honor that I get it in
+the mail a few days early each month, but this month it will be close. Well,
+I'm doing this because I don't feel like starting my homework. Hmm, we have
+next Monday off. Rock on! I'm also trying to find a programming project to
+pique my interest. Ah! I need to set Max(SamAMac2, 192.168.1.4) up on his new
+desk. Also, I was interested in learning more about BIND and DNS. That's what
+I'll do! Ha ha ha!

@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Back Up"
+date: 2008-12-17
+comments: false
+---
+Slicehost moved my slice to a different host yesterday, and their filesystem copy didn't preserve my POSIX ACLs, which brought my site down. I've sent them an email to see if they could do this in the future, but for now I have a ghetto script to fix the ACLs at boot. It's also high time I set up some monitoring.

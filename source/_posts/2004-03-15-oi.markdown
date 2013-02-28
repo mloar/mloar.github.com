@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Oi!"
+date: 2004-03-15
+comments: false
+---
+[Even better, eh, luv][0]?
+
+
+
+[0]: http://www.rinkworks.com/dialect/dialectp.cgi?dialect=cockney&amp;inside=1&amp;url=http://maverick.samamac.com/quotes.htm

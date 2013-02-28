@@ -1,0 +1,41 @@
+---
+layout: post
+title: "PuTTY 0.60.8371"
+date: 2008-12-04
+comments: false
+---
+So yeah, testing. I had tested my gssapi-keyex support against Sun SSH. Testing against OpenSSH revealed some issues:
+
+
+
+    
+*   
+    
+    Group exchange was totally broken. Sun SSH doesn't appear to support group exchange.
+    
+    
+*   
+    
+    The hash H was improperly computed if the server omitted the optional SSH\_MSG\_KEXGSS\_HOSTKEY message. Sun SSH apparently sends this message.
+    
+    
+*   
+    
+    Also, rekeying was broken.
+    
+    
+
+
+
+
+
+Now I have tested all three kexes against both Sun SSH and OpenSSH, and tested that rekeying works.
+
+
+
+
+You can find the updated version on the [PuTTY][0] page.
+
+
+
+[0]: /software/putty

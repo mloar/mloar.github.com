@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Busy Busy"
+date: 2006-09-12
+comments: false
+---
+Yesterday was a horribly busy day. I won't bore you with all of the details,
+but at one point, I was taking resumes for Microsoft. Yeah.
+
+
+
+
+Today won't be much better. Besides two classes, a work meeting, homework due
+at midnight and homework due before the professor's administrative assistant
+arrives tomorrow morning, I am currently waiting for the UPS man at my
+apartment. Hopefully he'll get here before I have to leave.
+
+
+
+
+Anyway, I was looking on the newsgroup for help with one of the problems, and
+I found [this link][0]. That's what I feel like doing right now, to be honest.
+
+
+
+[0]: http://compgeom.cs.uiuc.edu/~jeffe/teaching/pikachu.html

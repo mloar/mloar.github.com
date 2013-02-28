@@ -1,0 +1,12 @@
+---
+layout: post
+title: "For Mary"
+date: 2003-09-29
+comments: false
+---
+See Mary?
+
+
+
+
+It does work.

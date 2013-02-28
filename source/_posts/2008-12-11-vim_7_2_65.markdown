@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Vim 7.2.65"
+date: 2008-12-11
+comments: false
+---
+Vim, now

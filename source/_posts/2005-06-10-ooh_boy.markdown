@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Ooh Boy"
+date: 2005-06-10
+comments: false
+---
+Well, I haven't posted in a while. I might backpost some things over the next
+day or so.
+
+
+
+
+Well, today I had the first job I've had all week. I had to go clean some
+viruses and spyware off some guy's machine. Basically, same old, same old.
+
+
+
+
+Tomorrow I have to go test the wireless at Beckman. They're having a
+conference next week, and we're providing support. Originally it was scheduled
+for 10, but I got an email from Judy Lubben saying that it had been bumped up
+to 9:30, so I need to be at her office by 9:15\. Yay. Anyway, about 6 PM
+tonight she called me to confirm the change in time. She kept apologizing for
+calling me "at home." I thought this was kind of funny. Does she think I have
+an office or something?
+
+
+
+
+Got care package from Mom today. Yay, granola bars!
+
+
+
+
+Spent tonight researching Windows Software Restriction Policies. I kept
+thinking that it was dumb that the only security levels were "Unrestricted"
+and "Disallowed." It turns out there's a registry hack to change that. I found
+it on a MS guy's blog, too. Microsoft is still evil and dumb, but the rank-
+and-file can be pretty cool. Anyway, in case anyone who has a clue what I'm
+talking about (Kyle) is reading, you can enable three additional levels like
+so:
+
+
+
+
+\[HKLM\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers\]
+
+
+
+
+"Levels" = DWORD:0x31000
+
+
+
+
+Anyway, I'm researching the SAFER APIs in preparation for writing a spyware
+blocking application. I'm also working on a Spam-blocking MTA.
+
+
+
+
+Classes start Monday!

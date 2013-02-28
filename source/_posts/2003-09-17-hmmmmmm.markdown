@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Hmmmmmm"
+date: 2003-09-17
+comments: false
+---
+samamac.com down. I hope I didn't do it. I was working on the Key Club
+database, and I had just tried to execute a query when it went down.
+interAdvantage has been having a lot of trouble with reliability lately.
+Ramble, ramble.
+
+
+
+
+So much to do, so little time.

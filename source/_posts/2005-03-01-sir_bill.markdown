@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Sir Bill?"
+date: 2005-03-01
+comments: false
+---
+No, not really, but [he will be knighted][0].
+
+
+
+
+In other news, [the Supreme Court voted 5-4][1] to rule the execution of
+juveniles unconstitutional. It's about time.
+
+
+
+[0]: http://www.reuters.com/newsArticle.jhtml?type=topNews&amp;storyID=7774358
+[1]: http://www.reuters.com/newsArticle.jhtml?type=topNews&amp;storyID=7776184

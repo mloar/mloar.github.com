@@ -1,0 +1,17 @@
+---
+layout: post
+title: "remctl 2.13"
+date: 2008-11-15
+comments: false
+---
+Russ has [released][0] remctl 2.13, which now compiles for Windows without modification. I have updated my remctl page to reflect this and posted new binaries.
+
+
+
+
+You can find these binaries on the [remctl][1] page.
+
+
+
+[0]: http://www.eyrie.org/~eagle/journal/2008-11/016.html
+[1]: /software/remctl/

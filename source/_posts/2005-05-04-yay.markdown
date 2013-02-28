@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Yay!"
+date: 2005-05-04
+comments: false
+---
+Well, I don't know if it was my latent changes to the DNS or not, but
+samamac.com is back up on Google!
+
+
+
+
+Yay, I'm indexed again!

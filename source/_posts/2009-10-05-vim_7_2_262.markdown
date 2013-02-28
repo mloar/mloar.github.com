@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Vim 7.2.262"
+date: 2009-10-05
+comments: false
+---
+Nothing major, just another build with all the latest patches.
+
+
+
+
+Packages on the [Vim][0] page.
+
+
+
+[0]: /software/vim

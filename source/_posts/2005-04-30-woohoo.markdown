@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Woohoo!"
+date: 2005-04-30
+comments: false
+---
+I won the Judge's Prize!
+
+
+
+
+Judge's Prize:The Judges' Prize is to be awarded, not on the basis of the
+competition, but solely at the whim and discretion of the judges. Novel
+algorithms, interesting implementations, beautiful code, arresting user
+interfaces, use of parallelism -- these things may well count for something in
+the judges' eyes. The team winning the Judges' Prize will be awarded
+
+
+
+
+\*\* Money:$1000
+
+
+
+
+\*\* Wisdom:Each member of the team will receive autographed copies of faculty-
+authored texts in computer science.
+
+
+
+    
+*   
+    
+    Recognition:Winning team members will be acknowledged during the
+    presentation of the awards and on the department's website as a group of
+    "extremely cool hackers."

@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Vim 7.2.25"
+date: 2008-10-10
+comments: false
+---
+I finally took care of an item that has been on my to-do list for a while and
+built MSIs for Vim 7.2\.
+
+
+
+
+This MSI also incorporates a correction I have already made to the PuTTY MSI to
+not display a license agreement dialog. After the recent Mozilla EULA fiasco, I
+investigated why I had been including one in the first place. It turns out that
+all of the stock WiX UI sequences include one. If you don't specify a license,
+WiX helpfully includes the CPL. So I built a custom UI sequence to eliminate
+the dialog.
+
+
+
+
+You can find the new Vim MSI on the [Vim][0] page.
+
+
+
+[0]: /software/vim/

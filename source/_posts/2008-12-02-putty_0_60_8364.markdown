@@ -1,0 +1,22 @@
+---
+layout: post
+title: "PuTTY 0.60.8364"
+date: 2008-12-02
+comments: false
+---
+I have finished adding GSSAPI key exchange support to PuTTY. I intend to submit
+the patch upstream once it has some more testing.
+
+
+
+
+Note that any session configs which were saved in the registry by a previous PuTTY version will not have the new GSS kex methods. You will need to move the GSS methods up to the top under `SSH->Kex` in the PuTTY Configuration dialog. Also with the move to the upstream GSSAPI support, the registry value name for GSSAPI credential forwarding has changed from `GSSAPIFwdTGT` to `GssapiFwd`.
+
+
+
+
+You can find it on the [PuTTY][0] page.
+
+
+
+[0]: /software/putty

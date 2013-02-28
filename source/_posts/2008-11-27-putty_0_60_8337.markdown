@@ -1,0 +1,26 @@
+---
+layout: post
+title: "PuTTY 0.60.8337"
+date: 2008-11-27
+comments: false
+---
+So it turns out that it is pretty darn trivial to build the new upstream GSSAPI support against KfW instead of SSPI. All you have to do is change the Recipe file to build with uxgss instead of wingss, and tweak a couple things to make it compile.
+
+
+
+
+Therefore, I have decided to do this instead of attempting to replace the delay-loading behavior present in the sweb.cz patch. I figure that most sites are going to use either KfW or SSPI, and so making the choice at compile time instead of run time shouldn't be an inconvenience.
+
+
+
+
+No key-exchange support yet, but I am working on it.
+
+
+
+
+You can find it on the [PuTTY][0] page.
+
+
+
+[0]: /software/putty

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Vim 7.1.330"
+date: 2008-07-10
+comments: false
+---
+I have just uploaded both 32-bit and 64-bit MSIs of Vim 7.1 with patches 1-330\. Since Vim 7.2 is currently in beta, this will likely be the last release I do for Vim 7.1\. I have started a 7.2 branch and will work on getting that integrated into my build system.
+
+
+
+
+I am currently on vacation and my only 64-bit machine is at work, so I have not tested this particular package. However, an earlier 64-bit package installed fine. I will verify it when I go back to work next week.
+
+
+
+
+You can find these packages on the [Vim][0] page.
+
+
+
+[0]: /software/vim

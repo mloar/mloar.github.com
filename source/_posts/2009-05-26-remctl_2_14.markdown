@@ -1,0 +1,17 @@
+---
+layout: post
+title: "remctl 2.14"
+date: 2009-05-26
+comments: false
+---
+I have just uploaded Windows binaries for [remctl 2.14][0].
+
+
+
+
+You can find them on the [remctl][1] page.
+
+
+
+[0]: http://www.eyrie.org/~eagle/journal/2009-05/014.html
+[1]: /software/remctl

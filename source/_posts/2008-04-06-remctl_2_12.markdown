@@ -1,0 +1,16 @@
+---
+layout: post
+title: "remctl 2.12"
+date: 2008-04-06
+comments: false
+---
+Yesterday Russ released remctl 2.12, which included my changes to build on Windows. It still didn't quite compile, though, so I have updated my patch with the necessary fixes. He's planning a new release soon, so hopefully after that it will no longer be necessary for me to maintain my patch separately.
+
+
+
+
+You can find my updated patch on the [remctl][0] page.
+
+
+
+[0]: /software/remctl

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "VPNs"
+date: 2007-08-11
+comments: false
+---
+Tonight I finished moving what I've been calling SamAMacNet from [tinc][0] to
+[OpenVPN][1]. Basically, I just need a way to use SMB to back up my laptop and
+parents' computer with [backuppc][2].
+
+
+
+
+I had been using tinc, which is designed to be a "mesh routing" VPN - it does
+not require a star topology where clients connect to a central server that
+routes all of the traffic. Instead, each node forms links to other nodes and
+routes traffic. You generate public/private keys for each node, distributing
+the public keys to the other nodes to which you wish to connect.
+
+
+
+
+However, there are [lingering questions][3] about how secure tinc is. I also
+encountered a problem running tinc with NAT on both ends - even if the packets
+are routed correctly, it doesn't like it if the port numbers are modified in
+transit. As a result, I had to run tinc in TCP mode - definitely suboptimal.
+
+
+
+
+OpenVPN, on the other hand, appears to have been designed around sound
+cryptographic principles. I also am able to run it in UDP mode with no
+problems. Plus, the inclusion of a DHCP server makes OpenVPN a much better fit
+for the "roadwarrior" scenario, which is how I intend to use it on my laptop.
+
+
+
+[0]: http://www.tinc-vpn.org/
+[1]: http://openvpn.net
+[2]: http://backuppc.sourceforge.net/
+[3]: http://diswww.mit.edu/bloom-picayune/crypto/14238

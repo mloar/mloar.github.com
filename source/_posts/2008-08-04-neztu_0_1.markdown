@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Neztu 0.1"
+date: 2008-08-04
+comments: false
+---
+I'm following through on my goal of releasing the first version of my Tunez replacement this weekend. Behold Neztu 0.1, a very early version. As a test, I deployed it at ACM. This uncovered a few bugs, which I fixed. Its featureset is still quite limited, and deployment is somewhat involved, but I wanted to get it out there in the hope that people might look at it and offer feedback or even patches.
+
+
+
+
+You can find Neztu on the new [Neztu][0] page.
+
+
+
+[0]: /software/neztu

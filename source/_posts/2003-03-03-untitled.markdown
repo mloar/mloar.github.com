@@ -1,0 +1,9 @@
+---
+layout: post
+title: "untitled"
+date: 2003-03-03
+comments: false
+---
+Sigh...the last day of my four day weekend. Bummer. Today when I came down the
+router was having a fit. I had to remove the link to the cable modem and reset
+it. I hope it's not going flaky. More updates later, maybe.

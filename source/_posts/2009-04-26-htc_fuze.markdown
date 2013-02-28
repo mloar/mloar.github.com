@@ -1,0 +1,48 @@
+---
+layout: post
+title: "HTC Fuze"
+date: 2009-04-26
+comments: false
+---
+A few weeks ago I replaced my broken Blackjack with an HTC Fuze. So far it
+seems to be an improvement. The HTC Fuze combines a touchscreen with important
+things like Send and End keys and a slide-out QWERTY keyboard. The slide-out
+keyboard is definitely an improvement on the Blackjack's tiny keys and allows
+the Fuze to be narrower than the Blackjack, if twice as thick. The Fuze is
+pretty heavy, and I have the feeling that it would not take well to being
+dropped. Another thing I like is that unlike the Blackjack, it has a standard
+Mini-USB port.
+
+
+
+
+Software-wise the phone is marginal. It runs Windows Mobile 6.1 and comes
+loaded with HTC TouchFLO(tm) software which provides a shinier and more
+touch-friendly home screen. Of course it's not very customizable, so the first
+thing I did was turn it off. I like how it files SMS messages into
+conversations. I never used SMS on the Blackjack, so I don't know if this is a
+recent feature or not. When using the web browser I have run into an issue
+where it returns a "403 Forbidden" page for all sites. I suspect this may be an
+AT&T issue rather than a phone issue, as disconnecting and reconnecting to the
+network fixes it. This is made easier by the fact that the function performed
+by holding the End key is configurable, and I have configured it to toggle
+"airplane mode."
+
+
+
+
+The voice quality on the Fuze is fine, but using it as a phone can get very
+irritating. The keypad is through the touchscreen. When a call is active, the
+display has a number of buttons for functions such as turning on the
+speakerphone, and you have to hit a softkey to bring up the keypad. Also, the
+screen turns off after a second while a call is active (presumably to avoid
+inadvertent touchscreen presses), so you have to press the power key to turn it
+back on. This makes using touchtone interfaces (like voicemail) very frustrating.
+
+
+
+
+Today I woke up to find my phone frozen and had to remove the battery to restart
+it. I think the phone had been up for about a week. It's a sad state of
+affairs that I think a phone crashing after a week of uptime is marginally
+acceptable, but hey, it's WinMo.

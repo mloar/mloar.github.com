@@ -1,0 +1,22 @@
+---
+layout: post
+title: "remctl 2.11"
+date: 2007-11-12
+comments: false
+---
+Russ released [remctl 2.11][0], which includes the switch to remctl's IANA-assigned port of 4373\.
+
+
+
+
+I have updated the diff for my [Windows port][1] and built new binaries. In testing I managed to get it to crash under certain circumstances. As far as I could tell the crashes were due to more instances of malloc'd blocks being deallocated with gss_release_buffer. Correcting this may require more significant changes to the code. These crashes only seemed to happen when the server returned an error response, so if you only issue successful commands, you should be fine. :)
+
+
+
+
+**UPDATE 2008-01-26:** Yesterday my port came up in a discussion in comp.protocol.kerberos, so I was looking at this again. Using the same binaries, I was unable to get it to crash no matter what I did - successful commands, undefined commands, access denied, host unknown. I even ran it under a debugger looking for trace messages or caught exceptions - nothing. I tried it on both XP and W2k3\. It's possible that my previous results were tainted by a broken Kerberos install or something.
+
+
+
+[0]: http://www.eyrie.org/~eagle/software/remctl/
+[1]: http://matthew.loar.name/software/remctl/

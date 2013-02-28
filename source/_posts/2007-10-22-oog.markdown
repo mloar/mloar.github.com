@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Oog"
+date: 2007-10-22
+comments: false
+---
+If you exclude the last six hours, I have accomplished nothing this weekend.
+And the last six hours only include upgrading my apartment from "disaster
+area" to "sty," switching to zsh, and putting some dotfiles in subversion.
+
+
+
+
+OK, so that may not be entirely accurate. I did spend a significant portion of
+yesterday setting up a tracker and torrents for the [Reflections Projections
+2007 videos][0]. It's probably too little too late, though. We were doing OK
+until Eric Traut's video got posted to Slashdot. Apparently people were all
+excited about his MinWin demo. I hadn't previously thought that MinWin was
+anything to get excited about, but whatever.
+
+
+
+
+I need to find a good way to track personal projects and remind myself to do
+things. I considered setting up a personal Trac instance, but that may be a
+bit much. Right now I've just adopted Russ Allbery's [reminder][1] program.
+
+
+
+
+Speaking of projects, I need to decide what to do about the [Wipt][2] project.
+I don't have the time to put in the vast amount of work needed to make it
+really useful. Hopefully, future versions of Windows will address the
+deficiencies that inspired the project in the first place. I think I'll end up
+killing it and redirecting to a personal repository at this domain for the
+packages I care about (namely, PuTTY and Vim).
+
+
+
+
+Well, it's time for bed. I plan to start getting up earlier and working more
+normal hours.
+
+
+
+
+Like that will happen.
+
+
+
+[0]: http://www.acm.uiuc.edu/conference/2007/videos
+[1]: http://www.eyrie.org/~eagle/software/reminder
+[2]: http://www.wipt.org

@@ -1,0 +1,47 @@
+---
+layout: post
+title: "afsbak 1.0"
+date: 2009-02-13
+comments: false
+---
+So I recently found myself wanting to share files between my desktop and my
+laptop. So I did what any sane, rational person would do. I set up an AFS
+cell.
+
+
+
+
+Of course, I didn't want to put anything important in AFS until I had a way to
+back it up. At ACM, we had access to the campus Tivoli TSM service, so we
+ran an AIX machine for the sole purpose of using the old version of the TSM
+client that had AFS support. However, this wasn't exactly an option for me.
+
+
+
+
+I already used [BackupPC][0] for backups, so
+I wanted to use that to back up AFS as well. But how? Someone pointed out
+[BackupPC4AFS][1], but this
+doesn't allow for file-level backups, and the last thing I want to do is
+maintain a modified BackupPC.
+
+
+
+
+I got the idea to take a vos dump and transform it into tar format and then feed
+that into BackupPC. I grabbed the restorevol utility from the OpenAFS source
+tree and with some work produced
+[afsbak][2]. It reads a vos dump
+on stdin and produces a tar archive, optionally producing shell scripts that
+when run will restore the ACLs on the containing directory.
+
+
+
+
+Please let me know if you find it useful or find issues.
+
+
+
+[0]: http://backuppc.sourceforge.net
+[1]: http://www.physics.unc.edu/~stephen/BackupPC4AFS/
+[2]: /software/afsbak

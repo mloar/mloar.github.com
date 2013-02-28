@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Bah!"
+date: 2005-07-10
+comments: false
+---
+OK, so here's the deal.
+
+
+
+
+Late last night, I get an email from Clausen. Somebody exploited the XML-RPC
+vulnerability in Drupal, which I had installed on the ACM server. Even better,
+drupal.org was down. It's still down, actually. They've been trying to reach
+their web host for two days. Anyway, at least the server wasn't actually
+compromised. I'm on \#drupal at the moment, and one of the main developers got
+rooted.
+
+
+
+
+Bah, humbug.

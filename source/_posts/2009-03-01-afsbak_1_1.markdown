@@ -1,0 +1,20 @@
+---
+layout: post
+title: "afsbak 1.1"
+date: 2009-03-01
+comments: false
+---
+This release corrects a couple of problems with the first version of afsbak.
+Firstly it removes the -omitdirs argument to vos dump. I hadn't realized that
+only looks at the mtime and ctime on the directory, so it will miss updates to
+existing files. Secondly I now filter what is written to stderr, since BackupPC
+doesn't like things it doesn't recognize being written to stderr.
+
+
+
+
+You can find it at the [afsbak][0] page.
+
+
+
+[0]: /software/afsbak

@@ -1,0 +1,39 @@
+---
+layout: post
+title: "EBUSY"
+date: 2007-10-05
+comments: false
+---
+It is rather insane how busy I have been lately. We're bearing down on some
+big deadlines at work, and as usual, struggling to make it. Then I am
+bombarded by IMs and email from the testers. Plus, the I-I found someone to
+take over responsibility for their website (yay!) who doesn't seem to grasp
+the concept of dynamic content (suck). Of course, the wonderful Chihost took
+the opportunity about a week ago to upgrade PHP on the server, and PHP being
+the high-quality product that it is, the entire site broke. I really wish PHP
+wasn't the lingua franca of webhosts. I would much rather use ASP.net or even
+Python. It's inescapable though. Hell, this blog runs on PHP.
+
+
+
+
+But I digress. I finally got a doctor's appointment tomorrow morning (thanks,
+Mom). Then it's back to work to grind away on my last few work items. I'm a
+bit concerned though - the PM made some foreboding remarks today that
+something we didn't want to hear was on the horizon. But then I can go home
+and spend the weekend cleaning my apartment and working on personal/ACM
+projects.
+
+
+
+
+Due to some wonderful timing with work deadlines, I won't be able to make it
+back for Conference this year, though I'm not so sure that's a bad thing. Tack
+really annoys the hell out of me. I did just book flights for my sister and me
+to go back to Illinois for Christmas, though.
+
+
+
+
+Anyway, I have to do some prep for this appointment tomorrow, and then get to
+bed early (8:40 AM appointment - yuck).

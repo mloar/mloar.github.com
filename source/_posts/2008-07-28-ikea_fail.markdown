@@ -1,0 +1,31 @@
+---
+layout: post
+title: "ikea.fail()"
+date: 2008-07-28
+comments: false
+---
+I sit down on my loveseat Friday night, and...
+
+
+
+![My broken couch](/blog/uploads/loveseat.jpg)
+
+
+
+Sigh. At least this will give me an opportunity to get a couch I can actually lie down on.
+
+
+
+
+Not too much else has been going on. I've started taking a fiction writing class through the [Experimental College][0]. It's kind of fun, and it gives me a weekly Jimmy opportunity. The UW has a beautiful campus. This class is being held in the Mechanical Engineering Building, which is near the new Paul G. Allen Center for Computer Science. I sure hope it's less broken than the Siebel Center.
+
+
+
+
+I've been working on some projects. I'm almost ready to do an initial release of my replacement for [Tunez][1]. [ACM][2] continues to use a heavily modified version of Tunez. The fundamental problem with Tunez is that it is written in spaghetti PHP. This makes it absolutely painful to fix any of the various other defects. My replacement is written in C\# (object-oriented programming FTW) and is designed to run under Mono's ASP.NET implementation. I have also written it with extensibility in mind, as well as certain requirements of the ACM deployment. I hope to get the first release out by next weekend.
+
+
+
+[0]: http://depts.washington.edu/asuwxpcl/
+[1]: http://tunez.sourceforge.net/
+[2]: http://www.acm.uiuc.edu/

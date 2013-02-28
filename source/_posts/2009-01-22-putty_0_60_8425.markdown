@@ -1,0 +1,41 @@
+---
+layout: post
+title: "PuTTY 0.60.8425"
+date: 2009-01-22
+comments: false
+---
+Upon further testing of my GSSAPI key exchange support, I discovered that if one's GSSAPI credentials have expired when a rekey occurs, another key exchange method will be chosen, which will result in a verification dialog if the key is unknown. Since the main imputus behind GSSAPI key exchange is to not need to collect host keys _a priori_, this is a problem.
+
+
+
+
+A closer reading of RFC 4462 revealed that this is the purpose behind the SSH2\_MSG\_KEXGSS\_HOSTKEY message. In particular:
+
+
+> 
+> In order to facilitate key re-exchange after the user's GSS-API
+> credentials have expired, client implementations SHOULD store host
+> keys received via SSH\_MSG\_KEXGSS\_HOSTKEY for the duration of the
+> session, even when such keys are not stored for long-term use.
+> 
+
+
+
+
+
+So I have done just that, and pulled in the latest changes from upstream as well. Unfortunately, Simon Wilkinson's [patch for the OpenSSH server][0] does not send this message, so this won't help when connecting to OpenSSH servers. I intend to work on that (patch his patch?), but in the meantime I tested against Sun SSH, which does send the HOSTKEY message.
+
+
+
+
+It looks like I also should implement the "Null Host Key Algorithm" support to be fully compliant, but I have not yet done so.
+
+
+
+
+You can find the source and MSI on the [PuTTY][1] page.
+
+
+
+[0]: http://www.sxw.org.uk/computing/patches/openssh.html
+[1]: /software/putty

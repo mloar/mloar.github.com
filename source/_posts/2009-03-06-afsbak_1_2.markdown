@@ -1,0 +1,33 @@
+---
+layout: post
+title: "afsbak 1.2"
+date: 2009-03-06
+comments: false
+---
+Recently I had vos dump start sending the contents of a directory before all of
+its ancestor directories had been sent. I suppose that a sane ordering of the
+dump was too much to hope for. This release of afsbak changes tarvol to write
+orphaned entries into a tempfile. Then once the entire dump has been read, the
+orphan file is processed to see if ancestors have been found. This repeats
+until the orphans are eliminated or the orphan file stops shrinking.
+
+
+
+
+This release also adds a new utility called aestar. This is my solution to the
+problem of how to make an encrypted, rsync-friendly backup of the BackupPC pool.
+Duplicity won't work because it does not support hard links. Rsyncrypto uses a
+dubious decision function for resetting the IV in CBC. What aestar does is read
+a tar file and encrypt the data for each file separately. Thus the size of the
+change when using CBC is limited to the size of the changed file, not the entire
+tarball. This utility requires the aespipe utility available in Debian for now;
+in the future I may rewrite it against a crypto library for better performance.
+
+
+
+
+You can find it on the [afsbak][0] page.
+
+
+
+[0]: /software/afsbak
