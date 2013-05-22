@@ -1,0 +1,54 @@
+---
+layout: post
+title: "The End is Nigh(?)"
+date: 2011-07-04
+comments: false
+category: transit
+---
+I expressed my amusement and told her that I'm just some dumb schmuck with a blog, and that these cuts won't happen until after many public outreach meetings at which she and her neighbors would have an opportunity to shout at the politicians and planners who will actually be making these decisions.
+
+But now it is looking like she, I, and all the other citizens of the county will have an opportunity to vote, literally, on whether these cuts will be necessary. The Legislature has authorized King County to enact a "Congestion Reduction Charge," or more accurately a $20 Vehicle License Fee for the next two years. However, the authorizing legislation required a 2/3 supermajority of the County Council to authorize it. There was hope this might be possible with the vote of Jane Hague, Councilmember from District 6 representing the Eastside, but immediately after the legislation passed she announced she would not vote to enact the fee. But the legislation also allowed the fee to be enacted by a public vote, which the Council could authorize by a simple majority. It is now looking like the 5 Councilmembers representing the most urbanized parts of the county are willing to let the voters decide Metro's fate.
+
+This brings me back to a post I have been meaning to write for a while, since even before Jarrett Walker wrote his [post][0] on why Metropolitan Statistical Areas, which are agglomerations of counties, are useless when talking about metropolitan areas.
+
+King County's boundary has not appreciably changed since 1867, predating the admittance of Washington as a state. It was pared down to that from its [original 1852 boundary][1] which stretched to the Pacific Ocean. Until the adoption of a home-rule charter in 1968, it was governed by three Commissioners and a hodgepodge of elected officials, and was largely an administrative division of the state rather than a coherent local government. The original "Municipality of Metropolitan Seattle" was created after an earlier failed attempt to modernize the County's government. Its boundaries were drawn more tightly around Seattle and its closest suburbs.
+
+But in 1972 the Legislature, in granting Metro the authority to levy a sales tax, made its boundaries co-extensive with King County's. And then in the early 1990s Metro was merged into King County government. So since 1972 that same 1867 boundary is used not only to determine who gets to vote on decidedly urban services such as transit, but also who has to pay for them. The sales and property taxes used to fund Metro bus service are collected countywide, and a vote on the Congestion Reduction Charge would include all citizens in the county.
+
+But Metro buses don't serve the entire county. And wouldn't you know it, places where Metro service is sparse or non-existent tend not to want to pay for it. Here is a map showing the 9 County Council districts and how the precincts within them voted for Transit Now! back in 2006\.
+
+![](../../../image/2011/06/28255219-TransitNow.png)
+
+
+First, a disclaimer: don't read too much into the specific precinct color. As it turns out, voting precincts are rather volatile, and the boundaries depicted on this map reflect the precincts as they are today, not when the vote was taken. The purpose of this map is to show general geographic trends.
+
+Areas in blue, light blue, and teal are where the measure failed. Areas in green, lime, and red are where it passed. The areas of strongest support are where you'd expect: the U-District, Capitol Hill, and Fremont. Also unsurprisingly, rural areas of the county that get no bus service tended to vote against it.
+
+One thing that people have been asking is why Julia Patterson, the Councilmember from District 5, has been so reluctant to support the CRC. Taking a look at the map, this should come as a surprise to no one. Here's the breakdown of the vote by council district:
+
+    
+1.  61.7%
+1.  70.8%
+1.  50.1%
+1.  71.7%
+1.  46.4%
+1.  57.2%
+1.  42.3%
+1.  56.6%
+1.  43.6%
+    
+
+
+
+Councilwoman Patterson is wise to be cautious: Transit Now! **failed** in her district.
+
+"But Matt!" you say. "Transit Now! was sales tax! This is a vehicle license fee!" Yeah, and that makes it worse. For one thing, in Seattle where support would likely be strongest, car owners are already paying an additional $20 this year for the [Seattle Transportation Benefit District][2]. And taxing cars to pay for transit, while logical from an economic perspective, is sure to provoke more of the "War on Cars" rhetoric we've already heard so much of.
+
+The CRC passing a public vote is far from assured, and proponents will have to mount a very strong campaign. But ultimately this is just a stopgap measure, and it just enables us to have a discussion about long-term sustainable funding for Metro. The politics of our state seem to dictate that decisions about the best interests of the Puget Sound Region won't be made in Olympia. Whatever the ultimate funding and governance structure, it will need to be regional. I'll have some more thoughts on this in a future post.
+
+I'm sure that someone will suggest that Sound Transit should assume control of all local as well as regional transit. I'm not sure this is the right solution, but I will say I would rather have voters in Everett voting on the future of transit service in Seattle than voters in Skykomish. We can't expect 21st-century solutions from a 19th-century institution.
+
+
+[0]: http://www.humantransit.org/2011/05/great-american-metro-areas.html
+[1]: http://www.kingcounty.gov/operations/GIS/Maps/VMC/~/media/operations/GIS/maps/vmc/images/KChistbound.asmx
+[2]: http://www.seattle.gov/stbd/
