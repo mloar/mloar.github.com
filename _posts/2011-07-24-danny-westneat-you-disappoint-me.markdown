@@ -5,6 +5,8 @@ date: 2011-07-24
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 He tells the tale of John Littel, a carpenter from West Seattle who sat on the CTAC III committee making a recommendation to the Seattle City Council on the vehicle license fee that they may ask the voters to approve in addition to the $20 VLF already imposed without a public vote. The final [recommendation][0], made a week ago, calls for the full $80 fee authorized by statute, to be divided "30 percent for system preservation and safety, 50 percent for transit improvements and 20 percent for pedestrian and bicycle improvements."
 
 When I learned of this recommendation a few days ago, I was surprised and uneasy. The $20 VLF for the Seattle Transportation Benefit District is already being collected. Metro's only hope of staving off disastrous cuts is another $20 VLF. To have talk of an $80 VLF while the question of saving Metro service is still open seems like terrible timing in my opinion.

@@ -5,6 +5,8 @@ date: 2011-01-25
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 But as illustrated by this [forum thread][0] on TripAdvisor, there's something that needs examination all the more if the Ride Free Area is eliminated, and that's the subject of visitor passes.  The Ride Free Area is often defended as being friendly for tourists. After all, the Ride Free Area is home to Pike Place Market, the Waterfront, the Seattle Art Museum and several high-rise hotels. But if it was eliminated without the introduction of any sort of visitor pass, then those tourists could very well be paying cash fares on buses in the CBD, which would run contrary to the goal of moving buses through the CBD as quickly and efficiently as possible.
 
 Tourism is an important part of Seattle's economy.  According to the Seattle Convention and Visitors Bureau, in 2009 visitors to King County spent [$6.9 billion][1]. Tourism is the fourth largest industry in Washington.  Last year, the American Society of Travel Agents released the results of their [annual survey][2] on the top 10 summer tourism destinations in the US, and as they state "several changes occurred this year, most notably Seattle's return to the top 10, displacing Chicago for ninth place."  Hear that, Chicago? You can have an NFC Championship bid, we'll take tourism.

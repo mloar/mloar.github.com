@@ -5,6 +5,7 @@ date: 2013-04-01 16:15
 comments: true
 categories: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 
 SEATTLE - At a press conference this morning, ostensibly called to discuss looming cuts to bus service, King County Metro General Manager Kevin Desmond shocked reporters by launching into a tirade against the Washington State Legislature and his bosses on the Metropolitan King County Council.
 

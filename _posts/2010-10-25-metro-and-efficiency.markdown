@@ -6,6 +6,8 @@ comments: false
 category: transit
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 First of all, I want to apologize for taking so long for a second post.  The last thing the Internet needs is another dead blog.  It turns out that being angry is easy, but presenting that anger coherently and backed by research is a lot of work.
 
 

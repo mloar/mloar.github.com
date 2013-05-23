@@ -5,6 +5,8 @@ date: 2012-02-01
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 Today Metro [released][3] an updated proposal for the September restructuring associated with the start of RapidRide C & D. The headline change is that they're deferring changes to the 26, 28X, 31, and 355X until the opening of RapidRide E, a sensible move. Notably, the Queen Anne-Madrona restructure that Bruce Nourish of the Seattle Transit Blog has written about a [couple][4] [times][5] remains intact. However, in response to concerns about the loss of service on 6th Ave W, Metro has apparently done what an STB commenter [suggested][6]:
 
 > 

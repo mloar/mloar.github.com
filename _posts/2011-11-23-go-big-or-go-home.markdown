@@ -5,6 +5,8 @@ date: 2011-11-23
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 As I'm sure anyone who reads this blog is aware, two weeks ago Seattle voters overwhelmingly rejected Proposition 1, which would have paid for transit speed and reliability improvements as well as road repairs with a $60 car-tab fee.
 
   

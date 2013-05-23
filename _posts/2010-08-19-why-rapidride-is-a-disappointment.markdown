@@ -5,6 +5,8 @@ date: 2010-08-19
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 On October 2nd, Metro will introduce [RapidRide][0], its attempt at "bus rapid transit," or BRT, which as its website says is a system that "combines the efficiency and appeal of light rail with the flexibility and low cost of buses."  Now there are many arguments to be made that even when implemented correctly, BRT is inferior to light-rail.  But RapidRide doesn't even come close.  Here's why.
 
 Let's start at the beginning.  What makes light rail "efficient?"  For one thing, the train spends more time moving than stopped.  What makes this possible?  Well, the train has priority at traffic signals, which is something that RapidRide will also have.  But it also has short dwell times and wide stop spacing.

@@ -5,6 +5,8 @@ date: 2011-03-23
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 Two days ago I read a very disappointing [post][0] on Seattle Transit Blog. I personally think the deep-bore tunnel is a terrible investment, but Ben Schiendelman's post was just a lot of handwavy projections of the impact of the alternatives on two individual commute patterns, and in my opinion did little to advance the argument in favor of I-5/Surface/Transit. So I'm going to present the facts as I see them and explain why they lead me to oppose the tunnel.
 
 History

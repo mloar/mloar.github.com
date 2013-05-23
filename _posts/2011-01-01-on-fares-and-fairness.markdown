@@ -5,6 +5,8 @@ date: 2011-01-01
 comments: false
 category: transit
 ---
+[This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
+
 A few weeks ago a dear friend and car-free comrade posted this on Facebook:
 
 > 
