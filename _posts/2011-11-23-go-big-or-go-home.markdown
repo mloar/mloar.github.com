@@ -24,7 +24,9 @@ There has been [plenty][0] [of][1] [speculation][2] about why it failed. I think
 
 Don't believe me? Take a look at the [current TMP draft][3] \[PDF\]. On page 3-5, they discuss the modes evaluated in the study. You may notice that the highest-capacity mode considered is this oxymoronic "rapid streetcar" concept. What's a "rapid streetcar?" I'll tell you. It's when someone says "Oh, giving light rail trains their own lane is a huge hassle. Let's just give them a lane when it's convenient, and we'll just run them in traffic everywhere it really matters."
 
-They spend all of page 3-6 trying to validate this concept by talking about the trams in cities in France with smaller populations, 70% gas taxes, and in the case of Lyon, a three-line subway system. I absolutely love their choice of photos:![](https://lh5.googleusercontent.com/hCoun0ZVctmo7osTG0qXTSPPYkX1XfQyLnWlIx9wjcEDJpqLFOaV6dj56o3pYMo3fhdHDaPVJpXab57ozsX70u7UwwioYWhnQ9_DwI54ngAiM6PvVI0)
+They spend all of page 3-6 trying to validate this concept by talking about the trams in cities in France with smaller populations, 70% gas taxes, and in the case of Lyon, a three-line subway system. I absolutely love their choice of photos:
+
+![](https://lh5.googleusercontent.com/hCoun0ZVctmo7osTG0qXTSPPYkX1XfQyLnWlIx9wjcEDJpqLFOaV6dj56o3pYMo3fhdHDaPVJpXab57ozsX70u7UwwioYWhnQ9_DwI54ngAiM6PvVI0)
   
 
 
