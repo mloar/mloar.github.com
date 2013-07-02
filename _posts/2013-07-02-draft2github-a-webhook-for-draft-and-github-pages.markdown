@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: draft2github: a Webhook for Draft and GitHub Pages
+title: "draft2github: a Webhook for Draft and GitHub Pages"
 date: 2013-07-02T05:06:31-05:00
 ---
 
