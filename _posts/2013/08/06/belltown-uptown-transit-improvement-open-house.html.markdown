@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Belltown-Uptown Transit Improvement Open House"
-date: 2013-08-07T15:22:17-07:00
+date: 2013-08-06T15:35:32-07:00
 ---
 
 SDOT has just announced an open house for the Belltown-Uptown Transit Improvement Project on **August 21st** from **4-6 PM** at the **Urban Oasis Cafe, 2929 1st Avenue**.
