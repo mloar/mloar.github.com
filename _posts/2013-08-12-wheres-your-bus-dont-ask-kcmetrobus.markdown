@@ -50,7 +50,7 @@ But maybe I'm being too harsh, I mean the Twitters are newfangled technology. It
 
 Or maybe there are.
 
-But there is one sure way to get up-to-the-minute updates from @kcmetrobus &mdash make sure @kcmetrobus is on the bus with you.
+But there is one sure way to get up-to-the-minute updates from @kcmetrobus &mdash; make sure @kcmetrobus is on the bus with you.
 
 <blockquote class="twitter-tweet"><p>NB I-5 express lanes approaching Ship Canal bridge a <a href="https://twitter.com/kcmetrobus">@kcmetrobus</a> is stuck on shoulder. Poor passengers... At least it&#39;s sunny!</p>&mdash; WSDOT Traffic (@wsdot_traffic) <a href="https://twitter.com/wsdot_traffic/statuses/340646136375287808">June 1, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
