@@ -4,6 +4,7 @@ title: "Seattle Transit and Tourism"
 date: 2011-01-25
 comments: false
 category: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 

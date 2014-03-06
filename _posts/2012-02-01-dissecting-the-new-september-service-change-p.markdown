@@ -4,6 +4,7 @@ title: "Dissecting the New September Service Change Proposal"
 date: 2012-02-01
 comments: false
 category: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 

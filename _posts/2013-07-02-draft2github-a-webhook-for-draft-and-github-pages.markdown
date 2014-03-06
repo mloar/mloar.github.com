@@ -2,6 +2,7 @@
 layout: post
 title: "draft2github: a Webhook for Draft and GitHub Pages"
 date: 2013-07-02T05:06:31-05:00
+tags: software
 ---
 
 Lately I've starting using [Draft](http://draftin.com), a neat Markdown-based online text editor with built-in versioning by [Nate Kontny](https://twitter.com/natekontny).

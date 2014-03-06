@@ -4,6 +4,7 @@ title: "On Fares and Fairness"
 date: 2011-01-01
 comments: false
 category: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 

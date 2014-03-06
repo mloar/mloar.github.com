@@ -4,6 +4,7 @@ title: "zsh + screen for great justice"
 date: 2007-11-06
 comments: false
 categories: software
+tags: software
 ---
 So I was reading screen(1) last night, and I came across something in the section on screen titles
 which interested me:

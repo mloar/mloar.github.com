@@ -4,7 +4,7 @@ title: "Metro and Efficiency (Or, Why the Ride Free Area is Evil and Needs to Di
 date: 2010-10-25
 comments: false
 category: transit
-category: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 

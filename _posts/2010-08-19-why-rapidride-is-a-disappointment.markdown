@@ -4,6 +4,7 @@ title: "Why RapidRide is a Disappointment"
 date: 2010-08-19
 comments: false
 category: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 

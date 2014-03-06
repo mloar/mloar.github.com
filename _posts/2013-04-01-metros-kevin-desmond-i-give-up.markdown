@@ -4,6 +4,7 @@ title: "Metro's Kevin Desmond: I Give Up"
 date: 2013-04-01 16:15
 comments: true
 categories: transit
+tags: transit
 ---
 [This was originally posted on my [Angry Transit Nerd](http://angrytransitnerd.com) blog.]
 
