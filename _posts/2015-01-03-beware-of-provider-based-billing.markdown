@@ -1,5 +1,4 @@
 ---
-published: false
 title: Beware of Provider-Based Billing
 layout: post
 ---
