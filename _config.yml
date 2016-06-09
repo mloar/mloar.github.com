@@ -1,4 +1,4 @@
 name: Loar Industries
 url: http://loar.industries
-pygments: true
+highlighter: rouge
 paginate: 5
