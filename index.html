@@ -2,37 +2,127 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>{{ page.title }}</title>
+        <title>Matt Loar</title>
         <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="css/syntax.css">
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
             integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
             crossorigin="anonymous">
 
-        <link rel="stylesheet" href="/css/fc-webicons.css">
+        <link rel="stylesheet" href="css/fc-webicons.css">
 
-        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body>
-<div class="container-fluid">
-    <div class="row-fluid">
-        <img class="center-block" src="img/M.png">
-    </div>
-    <div class="row-fluid">
-        <p class="text-center">Matt Loar</p>
-    </div>
-    <div class="row-fluid">
-        <p class="text-center" id="email">bWF0dEBsb2FyLm5hbWUgDQo=</p>
-    </div>
-</div>
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <img class="center-block" src="img/M.png">
+            </div>
+            <div class="row-fluid">
+                <p class="text-center">Matt Loar</p>
+            </div>
+            <div class="row-fluid">
+                <form id="the_challenge">
+                <p class="text-center" id="javascript-warning">To view my contact information, you must enable Javascript.</p>
+                <p class="text-center" id="challenge" style="display: none"></p>
+                <p class="text-center"><input id="response_field" type="text" style="display: none"></p>
+                <p class="text-center"><input id="submit_button" type="submit" style="display: none"></p>
+                </form>
+            </div>
+        </div>
 
-<script>
-    document.getElementById("email").innerText = window.atob(document.getElementById("email").innerText);
-</script>
-</body>
+        <script src="js/jsaes.js"></script>
+        <script>
+            window.secret = new Array(16);
+            window.secret[0] = 202;
+            window.secret[1] = 153;
+            window.secret[2] = 188;
+            window.secret[3] = 205;
+            window.secret[4] = 193;
+            window.secret[5] = 92;
+            window.secret[6] = 182;
+            window.secret[7] = 243;
+            window.secret[8] = 10;
+            window.secret[9] = 193;
+            window.secret[10] = 31;
+            window.secret[11] = 230;
+            window.secret[12] = 28;
+            window.secret[13] = 61;
+            window.secret[14] = 101;
+            window.secret[15] = 181;
+
+            window.key = new Array(32);
+            function gebid($i) {
+                return document.getElementById($i);
+            }
+            function challenge0(evt) {
+                evt.preventDefault();
+                window.key[0] = parseInt(gebid('response_field').value);
+                gebid('response_field').value = '';
+                gebid('challenge').innerText = 'In which year was Casablanca released?';
+                gebid('the_challenge').removeEventListener('submit', challenge0);
+                gebid('the_challenge').addEventListener('submit', challenge1);
+            }
+            function challenge1(evt) {
+                evt.preventDefault();
+                window.key[4] = parseInt(gebid('response_field').value) & 0xFF;
+                window.key[5] = parseInt(gebid('response_field').value) >> 8;
+                gebid('response_field').value = '';
+                gebid('challenge').innerText = 'Calgary lost again.';
+                gebid('the_challenge').removeEventListener('submit', challenge1);
+                gebid('the_challenge').addEventListener('submit', challenge2);
+            }
+            function challenge2(evt) {
+                evt.preventDefault();
+                window.key[8] = parseInt(gebid('response_field').value) & 0xFF;
+                window.key[9] = parseInt(gebid('response_field').value) >> 8;
+                gebid('response_field').value = '';
+                gebid('challenge').innerText = 'How many people can read hex if only you and dead people can read hex?';
+                gebid('the_challenge').removeEventListener('submit', challenge2);
+                gebid('the_challenge').addEventListener('submit', challenge7);
+            }
+            function challenge3() {
+            }
+            function challenge4() {
+            }
+            function challenge5() {
+            }
+            function challenge6() {
+            }
+            function challenge7(evt) {
+                evt.preventDefault();
+                window.key[28] = parseInt(gebid('response_field').value) & 0xFF;
+                window.key[29] = parseInt(gebid('response_field').value) >> 8;
+
+                gebid('response_field').style.display = 'none';
+                gebid('submit_button').removeEventListener('submit', challenge7);
+                gebid('submit_button').style.display = 'none';
+
+                AES_Init();
+
+                AES_ExpandKey(window.key);
+                AES_Decrypt(window.secret, window.key);
+
+                gebid('challenge').innerText = '';
+                for (i = 0; i < 16; i++) {
+                    gebid('challenge').innerText += String.fromCharCode(window.secret[i]);
+                }
+
+                AES_Done();
+            }
+
+            gebid("javascript-warning").style.display = 'none';
+            gebid("challenge").style.display = 'block';
+            gebid("challenge").innerText = 'What is the answer to the ultimate question of life, '
+                + 'the universe, and everything?';
+            gebid("response_field").style.display = 'inline';
+            gebid("the_challenge").addEventListener('submit', challenge0);
+            gebid("submit_button").style.display = 'inline';
+        </script>
+    </body>
 </html>
